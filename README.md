@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Omar Sadique Khan
 
-<!--
-**Omar-Sadique-Khan/Omar-Sadique-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate developer focused on building clean, efficient, and impactful software.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python
+- **Tools & Platforms:** Git, GitHub, VS Code, PyCharm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Working On
+- 🌱 Learning Electrical Engineering & Web Dev along with Game Dev
+
+### 📫 Connect With Me
+- 📧 [Email](os.khan.engineering2013@gmail.com)

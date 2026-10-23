@@ -8,6 +8,3 @@ A passionate developer focused on building clean, efficient, and impactful softw
 
 ### 🔭 What I'm Working On
 - 🌱 Learning Electrical Engineering & Web Dev along with Game Dev
-
-### 📫 Connect With Me
-- 📧 [Email](os.khan.engineering2013@gmail.com)
